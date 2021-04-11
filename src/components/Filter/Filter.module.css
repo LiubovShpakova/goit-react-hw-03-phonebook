@@ -1,0 +1,10 @@
+.input {
+  width: 300px;
+  margin: 10px;
+  outline: none;
+}
+.input:focus {
+  font-weight: 700;
+  box-shadow: 2px 4px 6px 6px grey;
+  color: rgb(36, 36, 123);
+}
